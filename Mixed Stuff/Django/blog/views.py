@@ -4,15 +4,29 @@ from django.shortcuts import render
 
 posts = [
 
-    {'author': 'CoreyMS',
-     'title': 'Blog Post 1',
-     'content': 'First post content',
-     'date_posted': 'November 05, 2022'
-     },
-    {'author': 'Jane Doe',
-     'title': 'Blog Post 2',
-     'content': 'Second post content',
-     'date_posted': 'November 06, 2022'
+    {'author': 'Frank Kovmir',
+     'title': 'Anleitung zur Nutzung der Platform',
+     'content': '\ndddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n'
+                'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n'
+                'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n\n'
+                'ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\n\n\n\n',
+     'date_posted': 'October 11, 2022'
      }
 ]
 

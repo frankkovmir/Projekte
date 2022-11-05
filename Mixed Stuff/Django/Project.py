@@ -56,6 +56,15 @@ to create new page urls inside the app (blogs):
     7. Import as stylesheet in head of base <link rel="stylesheet" type = "text/css" href= "{% static 'blog/main.css'%}">
     8. Copy / Paste from Article Snipet into home for loop 
     
+##### Admin Page
+
+    1. /admin in link
+    2. To login an admin user has to be first created
+    3. python manage.py makemigrations
+    4. python manage.py migrate
+    5. python manage.py createsuperuser in CMD 
+    6. hirnfrost / adby7834b 
+
 
 """
 
