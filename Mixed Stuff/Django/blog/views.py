@@ -22,5 +22,5 @@ def home(request):
     }
     return render(request, 'blogs/home.html', context) #3rd argument passes data into the template
 
-def about(request):
-    return render(request, 'blogs/about.html', {'title':'About'})
+def discrepancies(request):
+    return render(request, 'blogs/recon.html', {'title':'Discrepancies'})
