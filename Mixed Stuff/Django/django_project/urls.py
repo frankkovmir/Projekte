@@ -18,5 +18,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('blog.urls')), #if path is empty string it opens directly as starting page
+    path('', include('dashboard.urls')), #if path is empty string it opens directly as starting page
 ]

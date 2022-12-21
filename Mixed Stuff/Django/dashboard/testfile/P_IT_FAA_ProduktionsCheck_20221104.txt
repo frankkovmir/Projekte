@@ -1,0 +1,6 @@
+Infoklasse Typ                             IsinWP/Insid/KontrahentCashColl SettlementSeqnbr KleinsteTrdnbr GroessteTrdnbr EventDay   DetailInfo                      
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2_Warning  SettlementDiffzuGross           XS2044474547                    1795907          0              0              20.10.2022 38,75 EUR == 38,75 EUR Gegenwert
+2_Warning  moeglicher Saldo_ZahlungsCPD-WP XS2044474547                    0                0              0              20.10.2022 38,75 EUR                       
+
+2

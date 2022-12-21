@@ -65,6 +65,15 @@ to create new page urls inside the app (blogs):
     5. python manage.py createsuperuser in CMD 
     6. hirnfrost / adby7834b 
 
+##### Create Database Structure (Models)
+
+    1. Models.py in App (Blog) Directory
+    2. Create Class
+    3. CMD: python manage.py makemigrations once done
+    4. CMD: python manage.py migrate
+    5. create __str__ Method in models
+    
+
 
 """
 
